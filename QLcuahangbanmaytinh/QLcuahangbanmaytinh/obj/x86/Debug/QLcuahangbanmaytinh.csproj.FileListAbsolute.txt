@@ -1,0 +1,114 @@
+c:\users\trankhactuyen\documents\visual studio 2010\Projects\QLcuahangbanmaytinh\QLcuahangbanmaytinh\bin\Debug\QLcuahangbanmaytinh.exe
+c:\users\trankhactuyen\documents\visual studio 2010\Projects\QLcuahangbanmaytinh\QLcuahangbanmaytinh\bin\Debug\QLcuahangbanmaytinh.pdb
+c:\users\trankhactuyen\documents\visual studio 2010\Projects\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmdangnhap.resources
+c:\users\trankhactuyen\documents\visual studio 2010\Projects\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmMenu.resources
+c:\users\trankhactuyen\documents\visual studio 2010\Projects\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.Properties.Resources.resources
+c:\users\trankhactuyen\documents\visual studio 2010\Projects\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.csproj.GenerateResource.Cache
+c:\users\trankhactuyen\documents\visual studio 2010\Projects\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.exe
+c:\users\trankhactuyen\documents\visual studio 2010\Projects\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.pdb
+c:\users\trankhactuyen\documents\visual studio 2010\Projects\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmQLthongtinmaytinh.resources
+c:\users\trankhactuyen\documents\visual studio 2010\Projects\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmnhacungcap.resources
+c:\users\trankhactuyen\documents\visual studio 2010\Projects\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmnhanvien.resources
+c:\users\trankhactuyen\documents\visual studio 2010\Projects\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmkhachhang.resources
+c:\users\trankhactuyen\documents\visual studio 2010\Projects\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmhoadonban.resources
+c:\users\trankhactuyen\documents\visual studio 2010\Projects\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmhoadonnhap.resources
+c:\users\trankhactuyen\documents\visual studio 2010\Projects\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmthongke.resources
+C:\Users\trankhactuyen\Documents\Visual Studio 2010\Projects\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.csprojResolveAssemblyReference.cache
+C:\Users\trankhactuyen\Documents\Visual Studio 2010\Projects\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmtkthongtinmaytinh.resources
+C:\Users\trankhactuyen\Documents\Visual Studio 2010\Projects\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmtknhanvien.resources
+C:\Users\trankhactuyen\Documents\Visual Studio 2010\Projects\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmtkkhachhang.resources
+C:\Users\trankhactuyen\Documents\Visual Studio 2010\Projects\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmtkncc.resources
+C:\Users\trankhactuyen\Documents\Visual Studio 2010\Projects\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\Interop.ExcelTranslator.dll
+C:\Users\trankhactuyen\Documents\Visual Studio 2010\Projects\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\trankhactuyen\Documents\Visual Studio 2010\Projects\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\trankhactuyen\Documents\Visual Studio 2010\Projects\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.csproj.ResolveComReference.cache
+E:\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\Interop.ExcelTranslator.dll
+E:\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.csproj.ResolveComReference.cache
+E:\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.exe
+E:\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.pdb
+E:\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\bin\Debug\QLcuahangbanmaytinh.exe
+E:\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\bin\Debug\QLcuahangbanmaytinh.pdb
+E:\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.csprojResolveAssemblyReference.cache
+E:\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmdangnhap.resources
+E:\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmhoadonban.resources
+E:\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmhoadonnhap.resources
+E:\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmkhachhang.resources
+E:\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmMenu.resources
+E:\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmnhacungcap.resources
+E:\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmnhanvien.resources
+E:\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.Properties.Resources.resources
+E:\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmQLthongtinmaytinh.resources
+E:\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmthongke.resources
+E:\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmtkkhachhang.resources
+E:\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmtkncc.resources
+E:\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmtknhanvien.resources
+E:\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmtkthongtinmaytinh.resources
+E:\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.csproj.GenerateResource.Cache
+C:\Users\trankhactuyen\Desktop\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\Interop.ExcelTranslator.dll
+C:\Users\trankhactuyen\Desktop\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.csproj.ResolveComReference.cache
+C:\Users\trankhactuyen\Desktop\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.exe
+C:\Users\trankhactuyen\Desktop\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.pdb
+C:\Users\trankhactuyen\Desktop\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\bin\Debug\QLcuahangbanmaytinh.exe
+C:\Users\trankhactuyen\Desktop\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\bin\Debug\QLcuahangbanmaytinh.pdb
+C:\Users\trankhactuyen\Desktop\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.csprojResolveAssemblyReference.cache
+C:\Users\trankhactuyen\Desktop\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmdangnhap.resources
+C:\Users\trankhactuyen\Desktop\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmhoadonban.resources
+C:\Users\trankhactuyen\Desktop\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmhoadonnhap.resources
+C:\Users\trankhactuyen\Desktop\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmkhachhang.resources
+C:\Users\trankhactuyen\Desktop\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmMenu.resources
+C:\Users\trankhactuyen\Desktop\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmnhacungcap.resources
+C:\Users\trankhactuyen\Desktop\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmnhanvien.resources
+C:\Users\trankhactuyen\Desktop\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.Properties.Resources.resources
+C:\Users\trankhactuyen\Desktop\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmQLthongtinmaytinh.resources
+C:\Users\trankhactuyen\Desktop\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmthongke.resources
+C:\Users\trankhactuyen\Desktop\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmtkkhachhang.resources
+C:\Users\trankhactuyen\Desktop\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmtkncc.resources
+C:\Users\trankhactuyen\Desktop\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmtknhanvien.resources
+C:\Users\trankhactuyen\Desktop\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmtkthongtinmaytinh.resources
+C:\Users\trankhactuyen\Desktop\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.csproj.GenerateResource.Cache
+E:\files đồ án 1+2+3\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.csproj.ResolveComReference.cache
+E:\files đồ án 1+2+3\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.exe
+E:\files đồ án 1+2+3\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.pdb
+E:\files đồ án 1+2+3\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\files đồ án 1+2+3\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmdangnhap.resources
+E:\files đồ án 1+2+3\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmhoadonban.resources
+E:\files đồ án 1+2+3\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmhoadonnhap.resources
+E:\files đồ án 1+2+3\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmkhachhang.resources
+E:\files đồ án 1+2+3\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmMenu.resources
+E:\files đồ án 1+2+3\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmnhacungcap.resources
+E:\files đồ án 1+2+3\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmnhanvien.resources
+E:\files đồ án 1+2+3\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.Properties.Resources.resources
+E:\files đồ án 1+2+3\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmQLthongtinmaytinh.resources
+E:\files đồ án 1+2+3\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmthongke.resources
+E:\files đồ án 1+2+3\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmtkkhachhang.resources
+E:\files đồ án 1+2+3\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmtkncc.resources
+E:\files đồ án 1+2+3\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmtknhanvien.resources
+E:\files đồ án 1+2+3\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmtkthongtinmaytinh.resources
+E:\files đồ án 1+2+3\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\files đồ án 1+2+3\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Classes\SoftwareEngineering\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\bin\Debug\QLcuahangbanmaytinh.exe
+D:\Classes\SoftwareEngineering\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\bin\Debug\QLcuahangbanmaytinh.pdb
+D:\Classes\SoftwareEngineering\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.csprojAssemblyReference.cache
+D:\Classes\SoftwareEngineering\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.csproj.ResolveComReference.cache
+D:\Classes\SoftwareEngineering\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmdangnhap.resources
+D:\Classes\SoftwareEngineering\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmhoadonban.resources
+D:\Classes\SoftwareEngineering\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmhoadonnhap.resources
+D:\Classes\SoftwareEngineering\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmkhachhang.resources
+D:\Classes\SoftwareEngineering\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmMenu.resources
+D:\Classes\SoftwareEngineering\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmnhacungcap.resources
+D:\Classes\SoftwareEngineering\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmnhanvien.resources
+D:\Classes\SoftwareEngineering\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.Properties.Resources.resources
+D:\Classes\SoftwareEngineering\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmQLthongtinmaytinh.resources
+D:\Classes\SoftwareEngineering\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmthongke.resources
+D:\Classes\SoftwareEngineering\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmtkkhachhang.resources
+D:\Classes\SoftwareEngineering\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmtkncc.resources
+D:\Classes\SoftwareEngineering\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmtknhanvien.resources
+D:\Classes\SoftwareEngineering\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.frmtkthongtinmaytinh.resources
+D:\Classes\SoftwareEngineering\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.csproj.GenerateResource.cache
+D:\Classes\SoftwareEngineering\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.csproj.CoreCompileInputs.cache
+D:\Classes\SoftwareEngineering\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.exe
+D:\Classes\SoftwareEngineering\Đồ án quản lý cửa hàng bán máy tính\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.pdb
+D:\TDTU\SoftwareEngineering\Final\Source\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.csprojAssemblyReference.cache
+D:\TDTU\SoftwareEngineering\Final\Source\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.csproj.ResolveComReference.cache
+D:\TDTU\SoftwareEngineering\Final\Source\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.exe
+D:\TDTU\SoftwareEngineering\Final\Source\QLcuahangbanmaytinh\QLcuahangbanmaytinh\obj\x86\Debug\QLcuahangbanmaytinh.pdb
