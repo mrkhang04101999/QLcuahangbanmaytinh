@@ -57,7 +57,7 @@
             // 
             // grpthongtinmaytinh
             // 
-            this.grpthongtinmaytinh.BackColor = System.Drawing.Color.PowderBlue;
+            this.grpthongtinmaytinh.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
             this.grpthongtinmaytinh.Controls.Add(this.btnthoat);
             this.grpthongtinmaytinh.Controls.Add(this.cbomancc);
             this.grpthongtinmaytinh.Controls.Add(this.btnquaylai);

@@ -57,7 +57,7 @@
             // 
             // grpthongtinnv
             // 
-            this.grpthongtinnv.BackColor = System.Drawing.Color.PowderBlue;
+            this.grpthongtinnv.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
             this.grpthongtinnv.Controls.Add(this.txtsdt);
             this.grpthongtinnv.Controls.Add(this.txtdiachi);
             this.grpthongtinnv.Controls.Add(this.txtgioitinh);

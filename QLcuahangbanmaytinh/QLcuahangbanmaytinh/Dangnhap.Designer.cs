@@ -43,32 +43,33 @@
             // 
             this.lbltendangnhap.AutoSize = true;
             this.lbltendangnhap.BackColor = System.Drawing.Color.White;
-            this.lbltendangnhap.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbltendangnhap.ForeColor = System.Drawing.Color.Blue;
-            this.lbltendangnhap.Location = new System.Drawing.Point(12, 98);
+            this.lbltendangnhap.Font = new System.Drawing.Font("Times New Roman", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbltendangnhap.ForeColor = System.Drawing.Color.Goldenrod;
+            this.lbltendangnhap.Location = new System.Drawing.Point(119, 215);
             this.lbltendangnhap.Name = "lbltendangnhap";
-            this.lbltendangnhap.Size = new System.Drawing.Size(129, 20);
+            this.lbltendangnhap.Size = new System.Drawing.Size(110, 19);
             this.lbltendangnhap.TabIndex = 0;
             this.lbltendangnhap.Text = "Tên đăng nhập";
+            this.lbltendangnhap.Click += new System.EventHandler(this.lbltendangnhap_Click);
             // 
             // lblmatkhau
             // 
             this.lblmatkhau.AutoSize = true;
             this.lblmatkhau.BackColor = System.Drawing.Color.White;
-            this.lblmatkhau.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblmatkhau.ForeColor = System.Drawing.Color.Blue;
-            this.lblmatkhau.Location = new System.Drawing.Point(209, 98);
+            this.lblmatkhau.Font = new System.Drawing.Font("Times New Roman", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblmatkhau.ForeColor = System.Drawing.Color.Goldenrod;
+            this.lblmatkhau.Location = new System.Drawing.Point(156, 262);
             this.lblmatkhau.Name = "lblmatkhau";
-            this.lblmatkhau.Size = new System.Drawing.Size(83, 20);
+            this.lblmatkhau.Size = new System.Drawing.Size(73, 19);
             this.lblmatkhau.TabIndex = 1;
             this.lblmatkhau.Text = "Mật khẩu";
             // 
             // btndangnhap
             // 
-            this.btndangnhap.BackColor = System.Drawing.Color.Blue;
-            this.btndangnhap.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btndangnhap.BackColor = System.Drawing.Color.MidnightBlue;
+            this.btndangnhap.Font = new System.Drawing.Font("Times New Roman", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btndangnhap.ForeColor = System.Drawing.Color.White;
-            this.btndangnhap.Location = new System.Drawing.Point(51, 186);
+            this.btndangnhap.Location = new System.Drawing.Point(236, 310);
             this.btndangnhap.Name = "btndangnhap";
             this.btndangnhap.Size = new System.Drawing.Size(99, 30);
             this.btndangnhap.TabIndex = 2;
@@ -80,7 +81,7 @@
             // 
             this.txttendangnhap.BackColor = System.Drawing.SystemColors.Control;
             this.txttendangnhap.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txttendangnhap.Location = new System.Drawing.Point(15, 133);
+            this.txttendangnhap.Location = new System.Drawing.Point(257, 208);
             this.txttendangnhap.Name = "txttendangnhap";
             this.txttendangnhap.Size = new System.Drawing.Size(172, 26);
             this.txttendangnhap.TabIndex = 4;
@@ -89,7 +90,7 @@
             // 
             this.txtmatkhau.BackColor = System.Drawing.SystemColors.Control;
             this.txtmatkhau.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtmatkhau.Location = new System.Drawing.Point(212, 133);
+            this.txtmatkhau.Location = new System.Drawing.Point(257, 262);
             this.txtmatkhau.Name = "txtmatkhau";
             this.txtmatkhau.PasswordChar = '*';
             this.txtmatkhau.Size = new System.Drawing.Size(172, 26);
@@ -97,10 +98,10 @@
             // 
             // btnthoat
             // 
-            this.btnthoat.BackColor = System.Drawing.Color.Blue;
-            this.btnthoat.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnthoat.BackColor = System.Drawing.Color.MidnightBlue;
+            this.btnthoat.Font = new System.Drawing.Font("Times New Roman", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnthoat.ForeColor = System.Drawing.Color.White;
-            this.btnthoat.Location = new System.Drawing.Point(247, 186);
+            this.btnthoat.Location = new System.Drawing.Point(352, 310);
             this.btnthoat.Name = "btnthoat";
             this.btnthoat.Size = new System.Drawing.Size(99, 30);
             this.btnthoat.TabIndex = 3;
@@ -111,21 +112,23 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.Color.Black;
-            this.label1.Location = new System.Drawing.Point(95, 16);
+            this.label1.Font = new System.Drawing.Font("Times New Roman", 26.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.Color.Teal;
+            this.label1.Location = new System.Drawing.Point(35, 28);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(209, 25);
+            this.label1.Size = new System.Drawing.Size(547, 82);
             this.label1.TabIndex = 6;
-            this.label1.Text = "Cửa hàng máy tính";
+            this.label1.Text = "HỆ THỐNG QUẢN LÝ CỬA HÀNG\r\nBÁN MÁY TÍNH";
+            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // groupBox1
             // 
-            this.groupBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.groupBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
             this.groupBox1.Controls.Add(this.label1);
-            this.groupBox1.Location = new System.Drawing.Point(10, 12);
+            this.groupBox1.Location = new System.Drawing.Point(12, 12);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(425, 59);
+            this.groupBox1.Size = new System.Drawing.Size(613, 142);
             this.groupBox1.TabIndex = 7;
             this.groupBox1.TabStop = false;
             // 
@@ -135,7 +138,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(443, 268);
+            this.ClientSize = new System.Drawing.Size(637, 391);
             this.Controls.Add(this.btndangnhap);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.txtmatkhau);

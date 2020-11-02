@@ -55,7 +55,7 @@
             // 
             // grpthongtinnhacungcap
             // 
-            this.grpthongtinnhacungcap.BackColor = System.Drawing.Color.PowderBlue;
+            this.grpthongtinnhacungcap.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
             this.grpthongtinnhacungcap.Controls.Add(this.btnthoat);
             this.grpthongtinnhacungcap.Controls.Add(this.btnlammoi);
             this.grpthongtinnhacungcap.Controls.Add(this.btnquaylai);

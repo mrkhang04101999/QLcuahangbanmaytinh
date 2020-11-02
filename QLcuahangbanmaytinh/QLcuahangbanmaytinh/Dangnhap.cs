@@ -49,6 +49,16 @@ namespace QLcuahangbanmaytinh
             if (traloi == DialogResult.OK)
                 Application.Exit();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lbltendangnhap_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
    
