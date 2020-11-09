@@ -54,7 +54,7 @@
             // 
             // grptimkiem
             // 
-            this.grptimkiem.BackColor = System.Drawing.Color.PowderBlue;
+            this.grptimkiem.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
             this.grptimkiem.Controls.Add(this.lbldiachi);
             this.grptimkiem.Controls.Add(this.lblmanv);
             this.grptimkiem.Controls.Add(this.lbltennv);

@@ -31,18 +31,18 @@
             this.dgvtkkhachhang = new System.Windows.Forms.DataGridView();
             this.grptimkiem = new System.Windows.Forms.GroupBox();
             this.btntimkiem = new System.Windows.Forms.Button();
+            this.textBox1 = new System.Windows.Forms.TextBox();
             this.txtdiachi = new System.Windows.Forms.TextBox();
             this.txtmakh = new System.Windows.Forms.TextBox();
+            this.label3 = new System.Windows.Forms.Label();
             this.txttenkh = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
             this.lbldiachi = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
             this.lblmakh = new System.Windows.Forms.Label();
             this.lbltenkh = new System.Windows.Forms.Label();
             this.btnthoat = new System.Windows.Forms.Button();
             this.btnquaylai = new System.Windows.Forms.Button();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.dgvtkkhachhang)).BeginInit();
             this.grptimkiem.SuspendLayout();
             this.SuspendLayout();
@@ -58,7 +58,7 @@
             // 
             // grptimkiem
             // 
-            this.grptimkiem.BackColor = System.Drawing.Color.PowderBlue;
+            this.grptimkiem.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
             this.grptimkiem.Controls.Add(this.btntimkiem);
             this.grptimkiem.Controls.Add(this.textBox1);
             this.grptimkiem.Controls.Add(this.txtdiachi);
@@ -93,6 +93,15 @@
             this.btntimkiem.UseVisualStyleBackColor = false;
             this.btntimkiem.Click += new System.EventHandler(this.btntimkiem_Click);
             // 
+            // textBox1
+            // 
+            this.textBox1.BackColor = System.Drawing.Color.White;
+            this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox1.Location = new System.Drawing.Point(156, 153);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(135, 24);
+            this.textBox1.TabIndex = 50;
+            // 
             // txtdiachi
             // 
             this.txtdiachi.BackColor = System.Drawing.Color.White;
@@ -113,6 +122,17 @@
             this.txtmakh.MouseClick += new System.Windows.Forms.MouseEventHandler(this.txtmakh_MouseClick);
             this.txtmakh.TextChanged += new System.EventHandler(this.txtmakh_TextChanged);
             // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
+            this.label3.Location = new System.Drawing.Point(76, 156);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(53, 18);
+            this.label3.TabIndex = 47;
+            this.label3.Text = "Địa chỉ";
+            // 
             // txttenkh
             // 
             this.txttenkh.BackColor = System.Drawing.Color.White;
@@ -124,6 +144,17 @@
             this.txttenkh.MouseClick += new System.Windows.Forms.MouseEventHandler(this.txttenkh_MouseClick);
             this.txttenkh.TextChanged += new System.EventHandler(this.txttenkh_TextChanged);
             // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
+            this.label2.Location = new System.Drawing.Point(76, 45);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(54, 18);
+            this.label2.TabIndex = 46;
+            this.label2.Text = "Mã KH";
+            // 
             // lbldiachi
             // 
             this.lbldiachi.AutoSize = true;
@@ -133,6 +164,17 @@
             this.lbldiachi.Size = new System.Drawing.Size(53, 18);
             this.lbldiachi.TabIndex = 47;
             this.lbldiachi.Text = "Địa chỉ";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
+            this.label1.Location = new System.Drawing.Point(76, 103);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(58, 18);
+            this.label1.TabIndex = 45;
+            this.label1.Text = "Tên KH";
             // 
             // lblmakh
             // 
@@ -179,48 +221,6 @@
             this.btnquaylai.Text = "Quay lại";
             this.btnquaylai.UseVisualStyleBackColor = false;
             this.btnquaylai.Click += new System.EventHandler(this.btnquaylai_Click);
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.label1.Location = new System.Drawing.Point(76, 103);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(58, 18);
-            this.label1.TabIndex = 45;
-            this.label1.Text = "Tên KH";
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.label2.Location = new System.Drawing.Point(76, 45);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(54, 18);
-            this.label2.TabIndex = 46;
-            this.label2.Text = "Mã KH";
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.label3.Location = new System.Drawing.Point(76, 156);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(53, 18);
-            this.label3.TabIndex = 47;
-            this.label3.Text = "Địa chỉ";
-            // 
-            // textBox1
-            // 
-            this.textBox1.BackColor = System.Drawing.Color.White;
-            this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(156, 153);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(135, 24);
-            this.textBox1.TabIndex = 50;
             // 
             // frmtkkhachhang
             // 

@@ -54,7 +54,7 @@
             // 
             // grptimkiem
             // 
-            this.grptimkiem.BackColor = System.Drawing.Color.PowderBlue;
+            this.grptimkiem.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
             this.grptimkiem.Controls.Add(this.btntimkiem);
             this.grptimkiem.Controls.Add(this.txtdiachi);
             this.grptimkiem.Controls.Add(this.txtmancc);

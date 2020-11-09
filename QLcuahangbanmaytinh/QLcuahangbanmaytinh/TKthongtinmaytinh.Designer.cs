@@ -42,7 +42,7 @@
             // 
             // grptimkiem
             // 
-            this.grptimkiem.BackColor = System.Drawing.Color.LightBlue;
+            this.grptimkiem.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
             this.grptimkiem.Controls.Add(this.btnthoat);
             this.grptimkiem.Controls.Add(this.txttktheoten);
             this.grptimkiem.Controls.Add(this.btnquaylai);
