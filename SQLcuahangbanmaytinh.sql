@@ -13,7 +13,7 @@ create table tblKhachhang(MaKH char(10) primary key, TenKH varchar(50), GioiTinh
 create table tblHoadonnhap(MaHDN char(10) primary key,MaNV char(10) foreign key (MaNV) references tblNhanvien(MaNV) on delete cascade on update cascade
 ,MaMT char(10) foreign key (MaMT) references tblThongtinMT(MaMT) on delete cascade on update cascade
 ,MaNCC char(10) foreign key (MaNCC) references tblNhaCC(MaNCC) on delete no action on update no action
-,Soluong int,Ngayban date,Diachi varchar(50),sdt int, Dongia float,Tongtien float)
+,Soluong int,Ngaynhap date,Diachi varchar(50),sdt int, Dongia float,Tongtien float)
 --Bang 6
 create table tblHoadonban(MaHDB char(10) primary key,MaNV char(10) foreign key (MaNV)references tblNhanvien(MaNV) on delete cascade on update cascade
 ,MaKH char(10) foreign key (MaKH) references tblKhachhang(MaKH) on delete cascade on update cascade
