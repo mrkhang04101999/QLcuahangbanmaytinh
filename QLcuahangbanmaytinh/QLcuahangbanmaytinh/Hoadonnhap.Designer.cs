@@ -72,7 +72,7 @@
             // 
             // grphoadonnhap
             // 
-            this.grphoadonnhap.BackColor = System.Drawing.Color.PowderBlue;
+            this.grphoadonnhap.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
             this.grphoadonnhap.Controls.Add(this.txtmanv);
             this.grphoadonnhap.Controls.Add(this.lblmanv);
             this.grphoadonnhap.Controls.Add(this.btnthoat);
@@ -114,7 +114,7 @@
             this.txtmanv.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtmanv.Location = new System.Drawing.Point(138, 88);
             this.txtmanv.Name = "txtmanv";
-            this.txtmanv.Size = new System.Drawing.Size(134, 24);
+            this.txtmanv.Size = new System.Drawing.Size(157, 24);
             this.txtmanv.TabIndex = 47;
             // 
             // lblmanv
@@ -158,9 +158,9 @@
             // 
             this.txtTongtien.BackColor = System.Drawing.Color.White;
             this.txtTongtien.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtTongtien.Location = new System.Drawing.Point(1002, 34);
+            this.txtTongtien.Location = new System.Drawing.Point(991, 35);
             this.txtTongtien.Name = "txtTongtien";
-            this.txtTongtien.Size = new System.Drawing.Size(123, 24);
+            this.txtTongtien.Size = new System.Drawing.Size(140, 24);
             this.txtTongtien.TabIndex = 34;
             // 
             // cbomancc
@@ -170,7 +170,7 @@
             this.cbomancc.FormattingEnabled = true;
             this.cbomancc.Location = new System.Drawing.Point(443, 37);
             this.cbomancc.Name = "cbomancc";
-            this.cbomancc.Size = new System.Drawing.Size(134, 26);
+            this.cbomancc.Size = new System.Drawing.Size(155, 26);
             this.cbomancc.TabIndex = 33;
             // 
             // cbomamaytinh
@@ -180,7 +180,7 @@
             this.cbomamaytinh.FormattingEnabled = true;
             this.cbomamaytinh.Location = new System.Drawing.Point(138, 139);
             this.cbomamaytinh.Name = "cbomamaytinh";
-            this.cbomamaytinh.Size = new System.Drawing.Size(134, 26);
+            this.cbomamaytinh.Size = new System.Drawing.Size(157, 26);
             this.cbomamaytinh.TabIndex = 33;
             // 
             // mtbNgaynhap
@@ -190,7 +190,7 @@
             this.mtbNgaynhap.Location = new System.Drawing.Point(443, 139);
             this.mtbNgaynhap.Mask = "00/00/0000";
             this.mtbNgaynhap.Name = "mtbNgaynhap";
-            this.mtbNgaynhap.Size = new System.Drawing.Size(134, 24);
+            this.mtbNgaynhap.Size = new System.Drawing.Size(155, 24);
             this.mtbNgaynhap.TabIndex = 32;
             this.mtbNgaynhap.ValidatingType = typeof(System.DateTime);
             // 
@@ -200,7 +200,7 @@
             this.txtsodienthoai.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtsodienthoai.Location = new System.Drawing.Point(736, 88);
             this.txtsodienthoai.Name = "txtsodienthoai";
-            this.txtsodienthoai.Size = new System.Drawing.Size(117, 24);
+            this.txtsodienthoai.Size = new System.Drawing.Size(134, 24);
             this.txtsodienthoai.TabIndex = 31;
             // 
             // lblsodienthoai
@@ -219,7 +219,7 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.label1.Location = new System.Drawing.Point(911, 35);
+            this.label1.Location = new System.Drawing.Point(904, 34);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(69, 18);
             this.label1.TabIndex = 29;
@@ -253,7 +253,7 @@
             this.txtdongia.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtdongia.Location = new System.Drawing.Point(736, 139);
             this.txtdongia.Name = "txtdongia";
-            this.txtdongia.Size = new System.Drawing.Size(117, 24);
+            this.txtdongia.Size = new System.Drawing.Size(134, 24);
             this.txtdongia.TabIndex = 28;
             // 
             // txtdiachi
@@ -262,7 +262,7 @@
             this.txtdiachi.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtdiachi.Location = new System.Drawing.Point(734, 31);
             this.txtdiachi.Name = "txtdiachi";
-            this.txtdiachi.Size = new System.Drawing.Size(119, 24);
+            this.txtdiachi.Size = new System.Drawing.Size(136, 24);
             this.txtdiachi.TabIndex = 28;
             // 
             // lblmancc
@@ -295,7 +295,7 @@
             this.txtsoluong.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtsoluong.Location = new System.Drawing.Point(443, 88);
             this.txtsoluong.Name = "txtsoluong";
-            this.txtsoluong.Size = new System.Drawing.Size(134, 24);
+            this.txtsoluong.Size = new System.Drawing.Size(155, 24);
             this.txtsoluong.TabIndex = 16;
             // 
             // lblsoluong
@@ -374,9 +374,9 @@
             // 
             this.txtmahoadonnhap.BackColor = System.Drawing.Color.White;
             this.txtmahoadonnhap.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtmahoadonnhap.Location = new System.Drawing.Point(138, 37);
+            this.txtmahoadonnhap.Location = new System.Drawing.Point(138, 39);
             this.txtmahoadonnhap.Name = "txtmahoadonnhap";
-            this.txtmahoadonnhap.Size = new System.Drawing.Size(134, 24);
+            this.txtmahoadonnhap.Size = new System.Drawing.Size(157, 24);
             this.txtmahoadonnhap.TabIndex = 1;
             // 
             // lblmahoadonnhap
