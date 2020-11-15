@@ -28,7 +28,7 @@ namespace QLcuahangbanmaytinh
         {
             DialogResult traloi;
             traloi = MessageBox.Show("Bạn có chắc muốn thoát không?", "Trả lời",
-           MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
+            MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
             if (traloi == DialogResult.OK)
                 Application.Exit();
         }
@@ -36,18 +36,18 @@ namespace QLcuahangbanmaytinh
         private void btnThongke_Click(object sender, EventArgs e)
         {
             
-                      if(rdbHDB.Checked == true)
+            if(rdbHDB.Checked == true)
             {
                 co.KetNoi();
                 string sqlTK = "select * from tblHoadonban where Ngayban = '" + mtbThangnam.Text+"'";
                 dgvTimkiem.DataSource = co.GetData(sqlTK);
             }
-                      if (rdbHDN.Checked == true)
-                      {
-                          co.KetNoi();
-                          string sqlTK = "select * from tblHoadonnhap where Ngaynhap = '" + mtbThangnam.Text + "'";
-                          dgvTimkiem.DataSource = co.GetData(sqlTK);
-                      }
+            if (rdbHDN.Checked == true)
+            {
+                co.KetNoi();
+                string sqlTK = "select * from tblHoadonnhap where Ngaynhap = '" + mtbThangnam.Text + "'";
+                dgvTimkiem.DataSource = co.GetData(sqlTK);
+            }
         }
     }
 }
