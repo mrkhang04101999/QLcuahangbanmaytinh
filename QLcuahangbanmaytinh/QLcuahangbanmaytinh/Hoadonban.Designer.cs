@@ -73,7 +73,7 @@
             // 
             // grphoadonban
             // 
-            this.grphoadonban.BackColor = System.Drawing.Color.PowderBlue;
+            this.grphoadonban.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
             this.grphoadonban.Controls.Add(this.txtmanv);
             this.grphoadonban.Controls.Add(this.lblmanv);
             this.grphoadonban.Controls.Add(this.btninhoadon);
@@ -116,7 +116,7 @@
             this.txtmanv.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtmanv.Location = new System.Drawing.Point(130, 91);
             this.txtmanv.Name = "txtmanv";
-            this.txtmanv.Size = new System.Drawing.Size(119, 22);
+            this.txtmanv.Size = new System.Drawing.Size(134, 22);
             this.txtmanv.TabIndex = 45;
             // 
             // lblmanv
@@ -150,7 +150,7 @@
             this.cbomakh.FormattingEnabled = true;
             this.cbomakh.Location = new System.Drawing.Point(128, 145);
             this.cbomakh.Name = "cbomakh";
-            this.cbomakh.Size = new System.Drawing.Size(121, 24);
+            this.cbomakh.Size = new System.Drawing.Size(136, 24);
             this.cbomakh.TabIndex = 42;
             // 
             // btnthoat
@@ -196,7 +196,7 @@
             this.txtTongtien.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtTongtien.Location = new System.Drawing.Point(896, 35);
             this.txtTongtien.Name = "txtTongtien";
-            this.txtTongtien.Size = new System.Drawing.Size(100, 22);
+            this.txtTongtien.Size = new System.Drawing.Size(114, 22);
             this.txtTongtien.TabIndex = 34;
             // 
             // cbomamaytinh
@@ -226,7 +226,7 @@
             this.txtsodienthoai.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtsodienthoai.Location = new System.Drawing.Point(666, 86);
             this.txtsodienthoai.Name = "txtsodienthoai";
-            this.txtsodienthoai.Size = new System.Drawing.Size(106, 22);
+            this.txtsodienthoai.Size = new System.Drawing.Size(120, 22);
             this.txtsodienthoai.TabIndex = 31;
             // 
             // lblsodienthoai
@@ -279,7 +279,7 @@
             this.txtdongia.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtdongia.Location = new System.Drawing.Point(666, 140);
             this.txtdongia.Name = "txtdongia";
-            this.txtdongia.Size = new System.Drawing.Size(106, 22);
+            this.txtdongia.Size = new System.Drawing.Size(120, 22);
             this.txtdongia.TabIndex = 28;
             // 
             // txtdiachi
@@ -288,7 +288,7 @@
             this.txtdiachi.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtdiachi.Location = new System.Drawing.Point(666, 35);
             this.txtdiachi.Name = "txtdiachi";
-            this.txtdiachi.Size = new System.Drawing.Size(106, 22);
+            this.txtdiachi.Size = new System.Drawing.Size(120, 22);
             this.txtdiachi.TabIndex = 28;
             // 
             // btnlammoi
@@ -391,7 +391,7 @@
             this.txtmahoadonban.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtmahoadonban.Location = new System.Drawing.Point(130, 38);
             this.txtmahoadonban.Name = "txtmahoadonban";
-            this.txtmahoadonban.Size = new System.Drawing.Size(119, 22);
+            this.txtmahoadonban.Size = new System.Drawing.Size(134, 22);
             this.txtmahoadonban.TabIndex = 1;
             // 
             // lblmahoadonban
