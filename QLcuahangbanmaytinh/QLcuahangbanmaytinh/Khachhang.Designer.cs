@@ -57,7 +57,7 @@
             // 
             // grpquanlykhachhang
             // 
-            this.grpquanlykhachhang.BackColor = System.Drawing.Color.PowderBlue;
+            this.grpquanlykhachhang.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
             this.grpquanlykhachhang.Controls.Add(this.txtgioitinh);
             this.grpquanlykhachhang.Controls.Add(this.btnthoat);
             this.grpquanlykhachhang.Controls.Add(this.btnquaylai);
