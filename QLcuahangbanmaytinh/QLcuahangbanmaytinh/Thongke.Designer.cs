@@ -43,7 +43,7 @@
             // 
             // grpthongke
             // 
-            this.grpthongke.BackColor = System.Drawing.Color.PowderBlue;
+            this.grpthongke.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
             this.grpthongke.Controls.Add(this.mtbThangnam);
             this.grpthongke.Controls.Add(this.lblthangnam);
             this.grpthongke.Controls.Add(this.btnthoat);
