@@ -132,7 +132,7 @@
             this.lblsdt.AutoSize = true;
             this.lblsdt.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblsdt.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.lblsdt.Location = new System.Drawing.Point(315, 105);
+            this.lblsdt.Location = new System.Drawing.Point(330, 104);
             this.lblsdt.Name = "lblsdt";
             this.lblsdt.Size = new System.Drawing.Size(38, 18);
             this.lblsdt.TabIndex = 11;
@@ -201,7 +201,7 @@
             // 
             this.txttenncc.BackColor = System.Drawing.Color.White;
             this.txttenncc.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txttenncc.Location = new System.Drawing.Point(99, 101);
+            this.txttenncc.Location = new System.Drawing.Point(113, 101);
             this.txttenncc.Name = "txttenncc";
             this.txttenncc.Size = new System.Drawing.Size(137, 24);
             this.txttenncc.TabIndex = 4;
@@ -221,7 +221,7 @@
             // 
             this.txtmancc.BackColor = System.Drawing.Color.White;
             this.txtmancc.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtmancc.Location = new System.Drawing.Point(99, 45);
+            this.txtmancc.Location = new System.Drawing.Point(113, 46);
             this.txtmancc.Name = "txtmancc";
             this.txtmancc.Size = new System.Drawing.Size(137, 24);
             this.txtmancc.TabIndex = 2;
@@ -231,7 +231,7 @@
             this.lblncc.AutoSize = true;
             this.lblncc.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblncc.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.lblncc.Location = new System.Drawing.Point(25, 48);
+            this.lblncc.Location = new System.Drawing.Point(29, 49);
             this.lblncc.Name = "lblncc";
             this.lblncc.Size = new System.Drawing.Size(66, 18);
             this.lblncc.TabIndex = 0;
