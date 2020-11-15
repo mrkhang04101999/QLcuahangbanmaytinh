@@ -52,10 +52,10 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.label1.BackColor = System.Drawing.SystemColors.ButtonFace;
             this.label1.Font = new System.Drawing.Font("Times New Roman", 24F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
-            this.label1.Location = new System.Drawing.Point(25, 232);
+            this.label1.Location = new System.Drawing.Point(242, 422);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(467, 36);
             this.label1.TabIndex = 25;
@@ -128,14 +128,14 @@
             // hóaĐơnNhậpToolStripMenuItem
             // 
             this.hóaĐơnNhậpToolStripMenuItem.Name = "hóaĐơnNhậpToolStripMenuItem";
-            this.hóaĐơnNhậpToolStripMenuItem.Size = new System.Drawing.Size(166, 22);
+            this.hóaĐơnNhậpToolStripMenuItem.Size = new System.Drawing.Size(167, 22);
             this.hóaĐơnNhậpToolStripMenuItem.Text = "Hóa đơn nhập";
             this.hóaĐơnNhậpToolStripMenuItem.Click += new System.EventHandler(this.hóaĐơnNhậpToolStripMenuItem_Click);
             // 
             // hóaĐơnBánToolStripMenuItem
             // 
             this.hóaĐơnBánToolStripMenuItem.Name = "hóaĐơnBánToolStripMenuItem";
-            this.hóaĐơnBánToolStripMenuItem.Size = new System.Drawing.Size(166, 22);
+            this.hóaĐơnBánToolStripMenuItem.Size = new System.Drawing.Size(167, 22);
             this.hóaĐơnBánToolStripMenuItem.Text = "Hóa đơn bán";
             this.hóaĐơnBánToolStripMenuItem.Click += new System.EventHandler(this.hóaĐơnBánToolStripMenuItem_Click);
             // 
@@ -219,7 +219,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::QLcuahangbanmaytinh.Properties.Resources.hinh_anh_quang_cao_cua_may_tinh_bang_microsoft_surface8;
+            this.BackgroundImage = global::QLcuahangbanmaytinh.Properties.Resources.surface;
             this.ClientSize = new System.Drawing.Size(935, 480);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.menuStrip1);
