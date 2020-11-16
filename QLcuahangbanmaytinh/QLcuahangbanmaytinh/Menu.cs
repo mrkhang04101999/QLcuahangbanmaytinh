@@ -135,10 +135,12 @@ namespace QLcuahangbanmaytinh
             if (admin == 0)
             {
                 thôngTinNhânViênToolStripMenuItem.Visible = false;
+                thốngKêToolStripMenuItem.Visible = false;
             }
             else
             {
                 thôngTinNhânViênToolStripMenuItem.Visible = true;
+                thốngKêToolStripMenuItem.Visible = true;
             }
         }
     }
